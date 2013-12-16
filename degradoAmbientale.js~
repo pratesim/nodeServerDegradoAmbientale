@@ -4,8 +4,8 @@ var dispatcher = require('httpdispatcher');
 /******Configurazione dell'utente admin e del server couchdb**********/
 
 var admin = {
-	name : '',
-	password : ''
+	name : 'pratesim',
+	password : 'cou111Viola<3'
 };
 
 var options = {
